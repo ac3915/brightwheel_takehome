@@ -4,6 +4,7 @@
 - timestamps are in EST
 - fix location, join to state code CSV
 - assumed timestamps are coming in as timestamps and not string
+- probably join by phone number if not ID but not ideal because phone number can change 
 
 ## writeup 
 Work that needs to be done
