@@ -1,0 +1,70 @@
+﻿state_name,region,state,country
+South Dakota,Midwest,SD,US
+Montana,West,MT,US
+Kansas,Midwest,KS,US
+Nebraska,Midwest,NE,US
+Arkansas,Southeast,AR,US
+Oklahoma,Southwest,OK,US
+Texas,Southwest,TX,US
+Colorado,West,CO,US
+Arizona,Southwest,AZ,US
+New Mexico,Southwest,NM,US
+Nevada,West,NV,US
+California,West,CA,US
+Oregon,West,OR,US
+Alaska,West,AK,US
+New Hampshire,Northeast,NH,US
+New York,Northeast,NY,US
+West Virginia,Southeast,WV,US
+Minnesota,Midwest,MN,US
+North Dakota,Midwest,ND,US
+Missouri,Midwest,MO,US
+Wyoming,West,WY,US
+Idaho,West,ID,US
+Utah,West,UT,US
+Washington,West,WA,US
+Maine,Northeast,ME,US
+Pennsylvania,Northeast,PA,US
+Georgia,Southeast,GA,US
+Michigan,Midwest,MI,US
+Louisiana,Southeast,LA,US
+Vermont,Northeast,VT,US
+Kentucky,Southeast,KY,US
+Wisconsin,Midwest,WI,US
+Illinois,Midwest,IL,US
+South Carolina,Southeast,SC,US
+Mississippi,Southeast,MS,US
+New Jersey,Northeast,NJ,US
+Hawaii,West,HI,US
+Virginia,Southeast,VA,US
+Iowa,Midwest,IA,US
+Florida,Southeast,FL,US
+Alabama,Southeast,AL,US
+Indiana,Midwest,IN,US
+Maryland,Northeast,MD,US
+North Carolina,Southeast,NC,US
+Tennessee,Southeast,TN,US
+Massachusetts,Northeast,MA,US
+Ohio,Midwest,OH,US
+Connecticut,Northeast,CT,US
+Rhode Island,Northeast,RI,US
+Delaware,Northeast,DE,US
+Puerto Rico,Southeast,PR,US
+District of Columbia,Southeast,DC,US
+Virgin Islands,Southeast,VI,US
+American Samoa,West,AS,US
+Guam,West,GU,US
+Northern Mariana Islands,West,MP,US
+Newfoundland and Labrador,Atlantic,NL,Canada
+Prince Edward Island,Atlantic,PE,Canada
+Nova Scotia,Atlantic,NS,Canada
+New Brunswick,Atlantic,NB,Canada
+Quebec,Quebec,QC,Canada
+Ontario,Ontario,ON,Canada
+Manitoba,Praries,MB,Canada
+Saskatchewan,Praries,SK,Canada
+Alberta,Praries,AB,Canada
+British Columbia,British Columbia,BC,Canada
+Yukon,Territories,YT,Canada
+Northwest Territories,Territories,NT,Canada
+Nunavut,Territories,NU,Canada
